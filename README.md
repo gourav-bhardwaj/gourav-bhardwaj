@@ -4,4 +4,4 @@
 	 and spring boot application and other different modules of spring, microservices architecture, docker, kubernetes.
 - 💞️ I’m looking for my collaborate in different microservice architectured MNC projects to learn 
 	 and grow my skills and knowledge.
-- 📫 You can reach out to me through skype (gov.kumarbharatdwaj@gmail.com) and whatsapp (+91-9772374736).
+- 📫 You can reach out to me through skype (gouravbhardwaj.jaipur@gmail.com) and whatsapp (+91-9772374736).
